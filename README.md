@@ -1,4 +1,4 @@
-# Prueba-Tecnica-Datasoft
+# Prueba-Tecnica
 
 ## 1. Documentación General del Proyecto
 
